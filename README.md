@@ -1,2 +1,6 @@
 # Laboratorio-biosenales
-Laboratorio bioseñales
+Integrantes:
+  * Erika Gomez
+  * Ana Mejia
+  * Angie Triana 
+
